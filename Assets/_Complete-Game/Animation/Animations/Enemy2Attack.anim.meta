@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cfbd97c78ee5a48bfb9c77d2557b4a03
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Animation/Animations/Enemy2Attack.anim
+  uploadId: 434543

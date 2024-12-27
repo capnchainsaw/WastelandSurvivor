@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 28b53fc28d3a140c392f0e2d919f9de1
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/Player.prefab
+  uploadId: 434543

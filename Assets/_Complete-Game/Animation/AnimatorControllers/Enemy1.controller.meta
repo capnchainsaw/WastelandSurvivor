@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d2980f4165a534b529ce669cbe3e8246
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Animation/AnimatorControllers/Enemy1.controller
+  uploadId: 434543

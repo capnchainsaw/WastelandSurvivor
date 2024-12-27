@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 01ca47a83ebe24ca5a2f6b1d6dcd7481
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/Wall3.prefab
+  uploadId: 434543

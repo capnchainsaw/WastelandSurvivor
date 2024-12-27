@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5afd3037c1370446fb0a18a403eb806e
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Animation/Animations/Enemy1Idle.anim
+  uploadId: 434543

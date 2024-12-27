@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72d362146ea8845739db4749fdcbe96d
+timeCreated: 1476961798
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/_Complete-Game.unity
+  uploadId: 434543

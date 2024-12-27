@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed88edb0ae145440684f0bf998629c0c
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Animation/AnimatorControllers/Player.controller
+  uploadId: 434543

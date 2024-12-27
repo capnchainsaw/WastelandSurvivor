@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c23d8039e659d46a7b71f4f3c0b02486
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Scripts/Loader.cs
+  uploadId: 434543

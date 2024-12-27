@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b1e7ecc239aec4292a421108d3884268
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Animation/Animations/PlayerChop.anim
+  uploadId: 434543

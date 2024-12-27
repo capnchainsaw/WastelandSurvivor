@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 089a2f2c322ea40f9afdfaba0550c6d3
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/Enemy2.prefab
+  uploadId: 434543

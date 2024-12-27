@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b0ace21a29149403094422fb3bd96aa9
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/OuterWall2.prefab
+  uploadId: 434543

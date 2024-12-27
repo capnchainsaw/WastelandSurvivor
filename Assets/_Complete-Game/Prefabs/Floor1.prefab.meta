@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 038998774947c4a8fa170d5b4492a7dd
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/Floor1.prefab
+  uploadId: 434543

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 76cd81135280f4ad6a4fa80f6422aea2
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/SoundManager.prefab
+  uploadId: 434543

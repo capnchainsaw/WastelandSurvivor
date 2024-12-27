@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cb0f3020bafec423aa31d0e491c4b811
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 29825
+  packageName: 2D Roguelike
+  packageVersion: 2.9.8
+  assetPath: Assets/_Complete-Game/Prefabs/Exit.prefab
+  uploadId: 434543
